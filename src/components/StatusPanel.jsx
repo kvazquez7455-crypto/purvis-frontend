@@ -71,7 +71,7 @@ export default function StatusPanel({ providerStatus }) {
       <div className="mt-2 p-3 bg-purvis-bg rounded-xl border border-purvis-border">
         <div className="text-xs text-purvis-muted mb-1">Backend</div>
         <div className="text-xs text-purvis-accent font-mono break-all leading-relaxed">
-          purvis-v11-production-8ad7.up.railway.app
+          sovereign-backend / same-domain proxy
         </div>
         <div className="mt-2 flex items-center gap-1.5">
           <div className="w-1.5 h-1.5 rounded-full bg-purvis-green pulse"/>
